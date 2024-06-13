@@ -14,5 +14,5 @@
     -- Open phpmyadmin and create a DB called "shopkartdb"
 
 
-## Reference:
+# Reference:
     -- Tutor Joes Youtube Channel
