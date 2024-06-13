@@ -3,17 +3,17 @@
 
 ## To run:
 
-1. Create Virtual Environment:
+Create Virtual Environment:
     -- pip install pipenv
     -- pipenv shell
 
-2. Install Packages:
+Install Packages:
     -- pip install -r requirements.txt
 
-3. Create Superuser
+Create Superuser
     -- py manage.py createsuperuser
 
-4. Connect Database:
+Connect Database:
     > Open phpmyadmin and create a DB called "shopkartdb"
 
 
